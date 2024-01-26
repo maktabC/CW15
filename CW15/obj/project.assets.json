@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My Files\\MaktabC#\\CW15\\CW15\\CW15\\CW15.csproj",
+      "projectUniqueName": "E:\\My Files\\MaktabC#\\CW15\\CW15_new\\CW15\\CW15.csproj",
       "projectName": "CW15",
-      "projectPath": "E:\\My Files\\MaktabC#\\CW15\\CW15\\CW15\\CW15.csproj",
+      "projectPath": "E:\\My Files\\MaktabC#\\CW15\\CW15_new\\CW15\\CW15.csproj",
       "packagesPath": "C:\\Users\\Navid\\.nuget\\packages\\",
-      "outputPath": "E:\\My Files\\MaktabC#\\CW15\\CW15\\CW15\\obj\\",
+      "outputPath": "E:\\My Files\\MaktabC#\\CW15\\CW15_new\\CW15\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Navid\\AppData\\Roaming\\NuGet\\NuGet.Config",

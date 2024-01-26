@@ -4,30 +4,46 @@
 @{
 }
 
-<h2>Search Service</h2>
-<form method="post">
+<h2 class="container">Search Service</h2>
+<form method="post" class="container col-lg-4">
     <div class="mb-3">
-        <label asp-for="@Model.ServiceDTO.ServiceName" class="form-label">w</label>
+        <label asp-for="@Model.ServiceDTO.ServiceName" class="form-label"></label>
         <input type="text" class="form-control" asp-for="@Model.ServiceDTO.ServiceName">
     </div>
     <div class="mb-3">
-        <label asp-for="@Model.ServiceDTO.Location" class="form-label">w</label>
+        <label asp-for="@Model.ServiceDTO.Date" class="form-label"></label>
+        <input type="date" value="@DateOnly.FromDateTime(DateTime.Now)" class="form-control" asp-for="@Model.ServiceDTO.Date">
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.ServiceDTO.Location" class="form-label"></label>
         <input type="text" class="form-control" asp-for="@Model.ServiceDTO.Location">
     </div>
-    <div class="mb-3">
-        <label asp-for="@Model.ServiceDTO.Gender" class="form-label"></label>
-        <input type="radio" class="form-control" value="@Gender.Female" asp-for="@Model.ServiceDTO.Gender">
-        <input type="radio" class="form-control" value="@Gender.Male" asp-for="@Model.ServiceDTO.Gender">
+    @* <div class="form-check">
+        <input class="form-check-input" asp-for="@Model.ServiceDTO.Gender" type="radio" value="@null" checked>
+        <label class="form-check-label" asp-for="@Model.ServiceDTO.Gender">
+        </label>
+    </div> *@
+    <div class="form-check">
+        <input class="form-check-input" asp-for="@Model.ServiceDTO.Gender" type="radio" value="@Gender.Female">
+        <label class="form-check-label" asp-for="@Model.ServiceDTO.Gender">
+            Female
+        </label>
     </div>
-    <div class="mb-3">
-        <label asp-for="@Model.ServiceDTO.categires"></label>
-        <select asp-for="@Model.ServiceDTO.categires" form="carform">
-            @foreach (var cat in Model.ServiceDTO.categires)
-            {
-                <option value="@cat">@cat.Title</option>
-            }
-        </select>
+    <div class="form-check">
+        <input class="form-check-input" asp-for="@Model.ServiceDTO.Gender" type="radio" value="@Gender.Male">
+        <label class="form-check-label" asp-for="@Model.ServiceDTO.Gender">
+            Male
+        </label>
     </div>
-
+    <label class="form-check-label" asp-for="@Model.ServiceDTO.Title"></label>
+    <select class="form-select" asp-for="@Model.ServiceDTO.Title">
+        <option selected value="@null">انتخاب کنید</option>
+        @foreach (var item in Model.CategoryTitle)
+        {
+            <option value="@item">@item</option>
+        }
+    </select>
+    <br />
+    <br />
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>

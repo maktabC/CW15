@@ -28,3 +28,65 @@ E:\My Files\MaktabC#\CW15\CW15\CW15\obj\Debug\net8.0\refint\CW15.dll
 E:\My Files\MaktabC#\CW15\CW15\CW15\obj\Debug\net8.0\CW15.pdb
 E:\My Files\MaktabC#\CW15\CW15\CW15\obj\Debug\net8.0\CW15.genruntimeconfig.cache
 E:\My Files\MaktabC#\CW15\CW15\CW15\obj\Debug\net8.0\ref\CW15.dll
+E:\week 15\CW12\CW15\bin\Debug\net8.0\appsettings.Development.json
+E:\week 15\CW12\CW15\bin\Debug\net8.0\appsettings.json
+E:\week 15\CW12\CW15\bin\Debug\net8.0\CW15.staticwebassets.runtime.json
+E:\week 15\CW12\CW15\bin\Debug\net8.0\CW15.exe
+E:\week 15\CW12\CW15\bin\Debug\net8.0\CW15.deps.json
+E:\week 15\CW12\CW15\bin\Debug\net8.0\CW15.runtimeconfig.json
+E:\week 15\CW12\CW15\bin\Debug\net8.0\CW15.dll
+E:\week 15\CW12\CW15\bin\Debug\net8.0\CW15.pdb
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.GeneratedMSBuildEditorConfig.editorconfig
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.AssemblyInfoInputs.cache
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.AssemblyInfo.cs
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.csproj.CoreCompileInputs.cache
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.MvcApplicationPartsAssemblyInfo.cache
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.RazorAssemblyInfo.cache
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.RazorAssemblyInfo.cs
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.sourcelink.json
+E:\week 15\CW12\CW15\obj\Debug\net8.0\staticwebassets.build.json
+E:\week 15\CW12\CW15\obj\Debug\net8.0\staticwebassets.development.json
+E:\week 15\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.CW15.Microsoft.AspNetCore.StaticWebAssets.props
+E:\week 15\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.build.CW15.props
+E:\week 15\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CW15.props
+E:\week 15\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CW15.props
+E:\week 15\CW12\CW15\obj\Debug\net8.0\staticwebassets.pack.json
+E:\week 15\CW12\CW15\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\week 15\CW12\CW15\obj\Debug\net8.0\scopedcss\bundle\CW15.styles.css
+E:\week 15\CW12\CW15\obj\Debug\net8.0\scopedcss\projectbundle\CW15.bundle.scp.css
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.dll
+E:\week 15\CW12\CW15\obj\Debug\net8.0\refint\CW15.dll
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.pdb
+E:\week 15\CW12\CW15\obj\Debug\net8.0\CW15.genruntimeconfig.cache
+E:\week 15\CW12\CW15\obj\Debug\net8.0\ref\CW15.dll
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\appsettings.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\CW15.staticwebassets.runtime.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\CW15.exe
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\CW15.deps.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\CW15.runtimeconfig.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\CW15.dll
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\bin\Debug\net8.0\CW15.pdb
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.AssemblyInfoInputs.cache
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.AssemblyInfo.cs
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.RazorAssemblyInfo.cache
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.RazorAssemblyInfo.cs
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.sourcelink.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.CW15.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.build.CW15.props
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CW15.props
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CW15.props
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\scopedcss\bundle\CW15.styles.css
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\scopedcss\projectbundle\CW15.bundle.scp.css
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.dll
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\refint\CW15.dll
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.pdb
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\CW15.genruntimeconfig.cache
+C:\Users\Navid\Downloads\Compressed\CW12_2\CW12\CW15\obj\Debug\net8.0\ref\CW15.dll
